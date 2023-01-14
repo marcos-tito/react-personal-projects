@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": 4,
+      "name": "Sapato Preto",
+      "price": 100.9
+    },
+    {
+      "id": 5,
+      "name": "Meias caras",
+      "price": 76.9
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "name": "cueca",
+      "price": "18",
+      "id": 8
+    },
+    {
+      "name": "meia",
+      "price": "19",
+      "id": 9
+    },
+    {
+      "name": "teclado",
+      "price": "110",
+      "id": 10
+    },
+    {
+      "name": "Tenis",
+      "price": "150",
+      "id": 11
+    },
+    {
+      "name": "Calcina",
+      "price": "15",
+      "id": 12
+    },
+    {
+      "name": "Suport monitor",
+      "price": "120",
+      "id": 13
+    },
+    {
+      "name": "Cabo hdmi",
+      "price": "12",
+      "id": 14
+    },
+    {
+      "name": "Cabo hdmi",
+      "price": "12",
+      "id": 15
+    },
+    {
+      "name": "suporte microfone",
+      "price": "2",
+      "id": 16
+    },
+    {
+      "name": "suporte microfone",
+      "price": "2",
+      "id": 17
+    },
+    {
+      "name": "suporte Mesa",
+      "price": "16",
+      "id": 18
+    }
+  ]
+}
